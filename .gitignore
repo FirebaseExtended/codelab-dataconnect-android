@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+google-services.json
+.dataconnect/
+app/src/main/java/com/google/firebase/example/dataconnect/generated
+*.log
+.firebaserc
+.firebase/
